@@ -1,6 +1,6 @@
 main {
     display: flex;
-    flex-direction:center;
+    flex-direction:column;
     place-items: center;
     max-width: 800px;
     margin: 0 auto;
